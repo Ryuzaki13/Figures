@@ -1,0 +1,13 @@
+C:\Users\alexey\source\repos\Figures\Figures\bin\Debug\netcoreapp3.1\Figures.exe
+C:\Users\alexey\source\repos\Figures\Figures\bin\Debug\netcoreapp3.1\Figures.deps.json
+C:\Users\alexey\source\repos\Figures\Figures\bin\Debug\netcoreapp3.1\Figures.runtimeconfig.json
+C:\Users\alexey\source\repos\Figures\Figures\bin\Debug\netcoreapp3.1\Figures.runtimeconfig.dev.json
+C:\Users\alexey\source\repos\Figures\Figures\bin\Debug\netcoreapp3.1\Figures.dll
+C:\Users\alexey\source\repos\Figures\Figures\bin\Debug\netcoreapp3.1\Figures.pdb
+C:\Users\alexey\source\repos\Figures\Figures\obj\Debug\netcoreapp3.1\Figures.csprojAssemblyReference.cache
+C:\Users\alexey\source\repos\Figures\Figures\obj\Debug\netcoreapp3.1\Figures.AssemblyInfoInputs.cache
+C:\Users\alexey\source\repos\Figures\Figures\obj\Debug\netcoreapp3.1\Figures.AssemblyInfo.cs
+C:\Users\alexey\source\repos\Figures\Figures\obj\Debug\netcoreapp3.1\Figures.csproj.CoreCompileInputs.cache
+C:\Users\alexey\source\repos\Figures\Figures\obj\Debug\netcoreapp3.1\Figures.dll
+C:\Users\alexey\source\repos\Figures\Figures\obj\Debug\netcoreapp3.1\Figures.pdb
+C:\Users\alexey\source\repos\Figures\Figures\obj\Debug\netcoreapp3.1\Figures.genruntimeconfig.cache
